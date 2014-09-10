@@ -11,7 +11,7 @@ h1{
 }
 
 h2{
-    color: saddlebrown    
+    color: whitesmoke;    
 }
 
 .uppercase{
@@ -56,9 +56,13 @@ iframe{
 }
 
 p{
-    color: skyblue;
+    color: gold;
 }
 
 a{
     color: mediumorchid;
+}
+
+alt src{
+    padding-right: 480px
 }
